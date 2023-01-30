@@ -2,8 +2,8 @@
 <img src="https://raw.githubusercontent.com/NicoRuizDev/NicoRuizDev/main/assets/gif/rainbow.gif" width="100%">
 
 <h1> 𝗛𝗶! 𝗜'𝗺 Nico.<img src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/Hi.gif" width="25"></h1>
-<img align="right" width="50%" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/responsive-design-image.gif">
 
+<h2> <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24"/> 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲 </h2>
 
 <li> 💻 𝖨'𝗆 𝖥𝗋𝗈𝗇𝗍 𝖤𝗇𝖽 and Back End 𝖣𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋 </li>
 <li> 🧠 𝖨'𝗆 𝖼𝗎𝗋𝗋𝖾𝗇𝗍𝗅𝗒 working on 𝖱𝖾𝖺𝖼𝗍𝖩𝖲 | 𝖭𝖾𝗑𝗍𝖩𝖲</li>
