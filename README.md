@@ -59,7 +59,7 @@
 </p>
 
 <div align="center">
-  <img  src="https://raw.githubusercontent.com/NicoRuizDev/NicoRuizDev/416088ad37f2a823bdf13591381e7fc7f1826fa6/assets/svg/grid-snake.svg"
+  <img  src="https://raw.githubusercontent.com/NicoRuizDev/NicoRuizDev/main/assets/svg/grid-snake.svg"
        alt="snake" /></a>
 </div>
 
