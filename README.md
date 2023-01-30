@@ -1,7 +1,7 @@
 <!-- RAINBOW LINE TOP -->
 <img src="https://raw.githubusercontent.com/NicoRuizDev/NicoRuizDev/main/assets/gif/rainbow.gif" width="100%">
 
-<h1> 𝗛𝗶! 𝗜'𝗺 Nico.<img src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/Hi.gif" width="25"></h1>
+<h1> 𝗛𝗶! 𝗜'𝗺 Nico.<img src="https://github.com/NicoRuizDev/NicoRuizDev/blob/main/assets/gif/Hi.gif?raw=true" width="25"></h1>
 
 <h2> <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24"/> 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲 </h2>
 
@@ -12,13 +12,13 @@
 
 <br/>
 <h2>𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 𝗮𝗻𝗱 𝗧𝗼𝗼𝗹𝘀</h2>
-<code><img width="43" src="https://raw.githubusercontent.com/NicoRuizDev/NicoRuizDev/3787f609f524ebf5f5ca8e18e7d9d1e73388a8a8/assets/svg/React.svg"></code>
-<code><img width="40" src="https://raw.githubusercontent.com/NicoRuizDev/NicoRuizDev/3787f609f524ebf5f5ca8e18e7d9d1e73388a8a8/assets/svg/Typescript.svg"></code>
-<code><img width="43" src="https://raw.githubusercontent.com/NicoRuizDev/NicoRuizDev/3787f609f524ebf5f5ca8e18e7d9d1e73388a8a8/assets/svg/nextjs-logo.svg"></code>
-<code><img width="43" src="https://raw.githubusercontent.com/NicoRuizDev/NicoRuizDev/3787f609f524ebf5f5ca8e18e7d9d1e73388a8a8/assets/svg/redux-logo.svg"></code>
-<code><img width="40" src="https://raw.githubusercontent.com/NicoRuizDev/NicoRuizDev/3787f609f524ebf5f5ca8e18e7d9d1e73388a8a8/assets/svg/JS.svg"></code>
-<code><img width="40" src="https://raw.githubusercontent.com/NicoRuizDev/NicoRuizDev/3787f609f524ebf5f5ca8e18e7d9d1e73388a8a8/assets/svg/git.svg"></code>
-<code><img width="40" src="https://raw.githubusercontent.com/NicoRuizDev/NicoRuizDev/main/assets/svg/figma-logo.png"></code>
+<code><img width="43" src="https://github.com/NicoRuizDev/NicoRuizDev/blob/main/assets/svg/React.svg?raw=true"></code>
+<code><img width="40" src="https://github.com/NicoRuizDev/NicoRuizDev/blob/main/assets/svg/Typescript.svg?raw=true"></code>
+<code><img width="43" src="https://github.com/NicoRuizDev/NicoRuizDev/blob/main/assets/svg/nextjs-logo.svg?raw=true"></code>
+<code><img width="43" src="https://github.com/NicoRuizDev/NicoRuizDev/blob/main/assets/svg/redux-logo.svg?raw=true"></code>
+<code><img width="40" src="https://github.com/NicoRuizDev/NicoRuizDev/blob/main/assets/svg/JS.svg?raw=true"></code>
+<code><img width="40" src="https://github.com/NicoRuizDev/NicoRuizDev/blob/main/assets/svg/git.svg?raw=true"></code>
+<code><img width="40" src="https://raw.githubusercontent.com/NicoRuizDev/NicoRuizDev/main/assets/svg/figma-logo.png?raw=true"></code>
 
 <br/>
 <br/>
