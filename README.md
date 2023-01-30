@@ -1,6 +1,6 @@
 <!-- RAINBOW LINE TOP -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<img src="https://raw.githubusercontent.com/NicoRuizDev/NicoRuizDev/main/rainbow.gif" width="100%">
 
 
 <!-- RAINBOW LINE BOT -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<img src="https://raw.githubusercontent.com/NicoRuizDev/NicoRuizDev/main/rainbow.gif" width="100%">
