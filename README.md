@@ -1,15 +1,9 @@
 <!-- RAINBOW LINE TOP -->
 <img src="https://raw.githubusercontent.com/NicoRuizDev/NicoRuizDev/main/assets/gif/rainbow.gif" width="100%">
 
-<div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://raw.githubusercontent.com/NicoRuizDev/NicoRuizDev/416088ad37f2a823bdf13591381e7fc7f1826fa6/assets/svg/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
 <!-- Projects section -->
 
-## 📘 My top open source projects
+## 📘 Top Open Source Projects
 
 <!-- Bassed on: Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
@@ -31,6 +25,7 @@
   <a href="https://github.com/NicoRuizDev?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
 
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
@@ -39,6 +34,12 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NicoRuizDev&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+<div align="center">
+  <a href="https://1999azzar.github.io/1999AZZAR/">
+  <img  src="https://raw.githubusercontent.com/NicoRuizDev/NicoRuizDev/416088ad37f2a823bdf13591381e7fc7f1826fa6/assets/svg/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
 <!-- RAINBOW LINE BOT -->
 <img src="https://raw.githubusercontent.com/NicoRuizDev/NicoRuizDev/main/assets/gif/rainbow.gif" width="100%">
