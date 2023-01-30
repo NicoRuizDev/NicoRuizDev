@@ -65,7 +65,7 @@
 
 ***
 
-<div align="center"> <a href="https://discord.gg/JRVPjPe3d8"><img src="https://discord.com/api/guilds/905747656045912064/widget.png?style=banner2"></a> </div>
+<div align="center"><code> <a href="https://discord.gg/JRVPjPe3d8"><img src="https://discord.com/api/guilds/905747656045912064/widget.png?style=banner2"></a> </code></div>
 
 
 ***
