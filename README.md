@@ -12,13 +12,13 @@
 
 <br/>
 <h2>𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 𝗮𝗻𝗱 𝗧𝗼𝗼𝗹𝘀</h2>
-<code><img width="43" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/React.svg"></code>
-<code><img width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/Typescript.svg"></code>
-<code><img width="43" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/nextjs-logo.svg"></code>
-<code><img width="43" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/redux-logo.svg"></code>
-<code><img width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/JS.svg"></code>
-<code><img width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/git.svg"></code>
-<code><img width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/figma-logo.png"></code>
+<code><img width="43" src="https://raw.githubusercontent.com/NicoRuizDev/NicoRuizDev/3787f609f524ebf5f5ca8e18e7d9d1e73388a8a8/assets/svg/React.svg"></code>
+<code><img width="40" src="https://raw.githubusercontent.com/NicoRuizDev/NicoRuizDev/3787f609f524ebf5f5ca8e18e7d9d1e73388a8a8/assets/svg/Typescript.svg"></code>
+<code><img width="43" src="https://raw.githubusercontent.com/NicoRuizDev/NicoRuizDev/3787f609f524ebf5f5ca8e18e7d9d1e73388a8a8/assets/svg/nextjs-logo.svg"></code>
+<code><img width="43" src="https://raw.githubusercontent.com/NicoRuizDev/NicoRuizDev/3787f609f524ebf5f5ca8e18e7d9d1e73388a8a8/assets/svg/redux-logo.svg"></code>
+<code><img width="40" src="https://raw.githubusercontent.com/NicoRuizDev/NicoRuizDev/3787f609f524ebf5f5ca8e18e7d9d1e73388a8a8/assets/svg/JS.svg"></code>
+<code><img width="40" src="https://raw.githubusercontent.com/NicoRuizDev/NicoRuizDev/3787f609f524ebf5f5ca8e18e7d9d1e73388a8a8/assets/svg/git.svg"></code>
+<code><img width="40" src="https://raw.githubusercontent.com/NicoRuizDev/NicoRuizDev/main/assets/svg/figma-logo.png"></code>
 
 <br/>
 <br/>
