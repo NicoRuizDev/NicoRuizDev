@@ -65,8 +65,8 @@
 
 ***
 
-## [Discord Server 😎](https://discord.gg/JRVPjPe3d8) | [Website](https://nicoruiz.dev)
 <a href="https://discord.gg/JRVPjPe3d8"><img src="https://discord.com/api/guilds/905747656045912064/widget.png?style=banner2"></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucl_m0h7dmdgy5gwl3zjqspg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucl_m0h7dmdgy5gwl3zjqspg" height="30" width="40" /></a>
 
 ***
 
