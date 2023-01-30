@@ -63,5 +63,12 @@
        alt="snake" /></a>
 </div>
 
+***
+
+## [Discord Server 😎](https://discord.gg/JRVPjPe3d8) | [Website](https://nicoruiz.dev)
+<a href="https://discord.gg/JRVPjPe3d8"><img src="https://discord.com/api/guilds/905747656045912064/widget.png?style=banner2"></a>
+
+***
+
 <!-- RAINBOW LINE BOT -->
 <img src="https://raw.githubusercontent.com/NicoRuizDev/NicoRuizDev/main/assets/gif/rainbow.gif" width="100%">
