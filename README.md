@@ -11,17 +11,7 @@
 <li> 😆 𝖯𝗋𝗈𝗇𝗈𝗎𝗇𝗌: 𝖧𝖾/𝖧𝗂𝗆 </li>
 
 <br/>
-<h2>𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 𝗮𝗻𝗱 𝗧𝗼𝗼𝗹𝘀</h2>
-<code><img width="43" src="https://github.com/NicoRuizDev/NicoRuizDev/blob/main/assets/svg/React.svg?raw=true"></code>
-<code><img width="40" src="https://github.com/NicoRuizDev/NicoRuizDev/blob/main/assets/svg/Typescript.svg?raw=true"></code>
-<code><img width="43" src="https://github.com/NicoRuizDev/NicoRuizDev/blob/main/assets/svg/nextjs-logo.svg?raw=true"></code>
-<code><img width="43" src="https://github.com/NicoRuizDev/NicoRuizDev/blob/main/assets/svg/redux-logo.svg?raw=true"></code>
-<code><img width="40" src="https://github.com/NicoRuizDev/NicoRuizDev/blob/main/assets/svg/JS.svg?raw=true"></code>
-<code><img width="40" src="https://github.com/NicoRuizDev/NicoRuizDev/blob/main/assets/svg/git.svg?raw=true"></code>
-<code><img width="40" src="https://raw.githubusercontent.com/NicoRuizDev/NicoRuizDev/main/assets/svg/figma-logo.png?raw=true"></code>
 
-<br/>
-<br/>
 
 #
 
