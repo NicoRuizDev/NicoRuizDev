@@ -22,11 +22,13 @@
 <p align="center">
   <p style="widht: 100%;" align="center">
     <a href="https://github.com/NicoRuizDev/DiscordCDN"><img align="left" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=NicoRuizDev&repo=DiscordCDN&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
-    <a href="https://github.com/NicoRuizDev/Dashactyl-Manager"><img align="right" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=NicoRuizDev&repo=Dashactyl-Manager&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
+    <a href="https://github.com/NicoRuizDev/Dashactyl-Linkvertise-BOT"><img align="right" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=NicoRuizDev&repo=Dashactyl-Linkvertise-BOT&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
+    
   </p>
   <p align="center">&#8192;</p>
   <p style="widht: 100%;" align="center">
-    <a href="https://github.com/NicoRuizDev/Dashactyl-Linkvertise-BOT"><img align="left" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=NicoRuizDev&repo=Dashactyl-Linkvertise-BOT&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
+  <a href="https://github.com/NicoRuizDev/Dashactyl-Manager"><img align="left" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=NicoRuizDev&repo=Dashactyl-Manager&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
+    
     <a href="https://github.com/NicoRuizDev/PteroDeleter"><img align="right" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin?username=NicoRuizDev&repo=PteroDeleter&theme=react&border_color=7cebf5&border_radius=10&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true" alt="custom-icon-badges"></a>
   </p>
 </p>
@@ -35,9 +37,8 @@
 <p align="center">&#8192;</p>
 
 <p align="left">
-  <a href="https://github.com/NicoRuizDev?tab=repositories"></a>
+  <a href="https://github.com/NicoRuizDev?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
-
 
 ### ⚙️ &nbsp;GitHub Analytics
 
