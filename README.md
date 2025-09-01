@@ -1,7 +1,7 @@
 <!-- RAINBOW LINE TOP -->
 <img src="https://raw.githubusercontent.com/NicoRuizDev/NicoRuizDev/main/assets/gif/rainbow.gif" width="100%">
 
-<h1> 𝗛𝗶! 𝗜'𝗺 Nico.<img src="https://github.com/NicoRuizDev/NicoRuizDev/blob/main/assets/gif/Hi.gif?raw=true" width="25"></h1>
+<h1> 𝗛𝗶! 𝗜'𝗺 Sonu.<img src="https://github.com/NicoRuizDev/NicoRuizDev/blob/main/assets/gif/Hi.gif?raw=true" width="25"></h1>
 
 <h2> <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24"/> 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲 </h2>
 
